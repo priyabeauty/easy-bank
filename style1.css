@@ -554,6 +554,10 @@ main
     max-width:100%;
     
    }
+        .section-03-content .img-align {
+            max-width: 100%;
+            margin-inline: auto;
+        }
    .section-03-mc
    {
     max-width:100% !important;
