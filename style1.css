@@ -584,11 +584,16 @@ i
    .footer-01-sc
    {
     padding-inline:40px;
+    
+   }
+   .footer-01-sc img
+   {
+    max-width:32px ;
    }
    .footer-child
    {
     text-align:center;
-    margin-right:50px;
+    margin-right:5px;
     margin-top:1em;
    }
    .footer-child p
